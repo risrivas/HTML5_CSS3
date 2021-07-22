@@ -22,3 +22,35 @@ This is Front-End development
 - like: https://udemy.com
 
 This is Back-End development
+
+################
+# Setup VS Code
+################
+
+# add Extension
+Prettier - Code formatter
+
+# Settings
+- Set Default Formatter to Pretier ...
+- format on save - ON
+- auto save - onFocusChange
+- tab size = 2
+
+# set Color Theme to "Monokai Pro" Or "One Monokai Theme"
+- left pane - bottom "Manage" => Color Theme => Chose "Monokai Pro"
+- if not present, left pane - "Extensions" => "Monokai Pro" and install
+
+OR else use "Monokai Classic" which does not require any installation
+
+# VS Code settings
+- left pane - "Manage" - "Settings"
+
+AutoSave = onFocusChange
+FontSize = 16 (optional)
+Multi Cursor Modifier = ctrlCmd
+Word Wrap = On
+Format On Save = check
+
+# Manage -> File Icon Theme
+Chose "Seti (Visual Studio Code)"
+
