@@ -1,0 +1,24 @@
+######################
+# High level overview
+######################
+- Static page vs dynamic page
+
+# Static page
+- Request on browser
+https://omnifood.dev
+
+Browser -> Web Server
+
+- Response from Web server
+index.html, style.css, script.js, image.jpg
+
+Browser <- Web Server
+Browser interprets the files returned and builds the page
+This is Front-End development
+3 languages of FE = HTML, CSS, JS
+
+# Dynamic page
+- if any backend language used at Webserver using nodejs, php or python to generate html/css files to return on response
+- like: https://udemy.com
+
+This is Back-End development
