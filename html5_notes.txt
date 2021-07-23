@@ -31,7 +31,7 @@ This is Back-End development
 Prettier - Code formatter
 
 # Settings
-- Set Default Formatter to Pretier ...
+- Set Default Formatter to Prettier ...
 - format on save - ON
 - auto save - onFocusChange
 - tab size = 2
