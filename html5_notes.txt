@@ -54,3 +54,17 @@ Format On Save = check
 # Manage -> File Icon Theme
 Chose "Seti (Visual Studio Code)"
 
+##############
+# HTML Basics
+##############
+- HyperText Markup Language - not a programming language
+- only for structuring the web page
+- browsers render HTML code as websites
+- first line is always : <!DOCTYPE html>
+- always have head and body inside html
+- Element: everything between tags including tags
+example:
+<p>my name is...</p>   # "my name is..." is Content
+
+
+
